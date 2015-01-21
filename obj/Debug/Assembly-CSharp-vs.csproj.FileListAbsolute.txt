@@ -1,0 +1,1 @@
+F:\Projects\LaserChess\obj\Debug\Assembly-CSharp-vs.csprojResolveAssemblyReference.cache

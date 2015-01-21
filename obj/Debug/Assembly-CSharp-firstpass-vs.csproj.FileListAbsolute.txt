@@ -1,0 +1,12 @@
+F:\Projects\LaserChess\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Projects\LaserChess\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\Projects\LaserChess\Temp\bin\Debug\UnityEditor.dll
+F:\Projects\LaserChess\Temp\bin\Debug\UnityEngine.dll
+F:\Projects\LaserChess\Temp\bin\Debug\UnityEngine.UI.dll
+F:\Projects\LaserChess\Temp\bin\Debug\Mono.Cecil.dll
+F:\Projects\LaserChess\Temp\bin\Debug\nunit.framework.dll
+F:\Projects\LaserChess\Temp\bin\Debug\Unity.DataContract.dll
+F:\Projects\LaserChess\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Projects\LaserChess\obj\Debug\Assembly-CSharp-firstpass-vs.csprojResolveAssemblyReference.cache
+F:\Projects\LaserChess\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\Projects\LaserChess\obj\Debug\Assembly-CSharp-firstpass.pdb
